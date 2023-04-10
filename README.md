@@ -16,3 +16,4 @@
 
 - [qb-core](https://github.com/qbcore-framework/qb-core) or [qbx-core](https://github.com/Qbox-project/qbx-core)
 - [qb-target](https://github.com/qbcore-framework/qb-target)
+- [ox_lib](https://github.com/overextended/ox_lib/releases)
