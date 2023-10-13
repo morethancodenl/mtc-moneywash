@@ -1,3 +1,5 @@
+![moneywsh](https://i.imgur.com/G0b6wEL.png)
+
 # mtc-moneywash
 
 ## Our links
