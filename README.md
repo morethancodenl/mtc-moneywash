@@ -1,4 +1,4 @@
-![moneywsh](https://i.imgur.com/G0b6wEL.png)
+![moneywash](https://i.imgur.com/7CEqbPG.png)
 
 # mtc-moneywash
 
@@ -19,3 +19,7 @@
 - [qb-core](https://github.com/qbcore-framework/qb-core) or [qbx-core](https://github.com/Qbox-project/qbx-core)
 - [qb-target](https://github.com/qbcore-framework/qb-target)
 - [ox_lib](https://github.com/overextended/ox_lib/releases)
+  
+## 👉 Join our community
+
+[![Discord](https://discord.com/api/guilds/1075048579758035014/widget.png?style=banner2)](https://discord.gg/cFuv5BMWzK)
